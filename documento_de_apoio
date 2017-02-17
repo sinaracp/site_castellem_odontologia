@@ -1,0 +1,134 @@
+d4ba6a - dourado claro
+bdb233 - dourado escuro
+d4d943
+0ce8e2 - azul
+cbfdfb - azul clarissimo
+
+background-image: url('../img/photo_site_capa.jpg');
+
+
+<div class="item">
+    <img src="images/slide3.png" alt="Third Slide">
+</div>
+
+
+rodapé antigo
+<div class="col-xs-5">
+    <ul>
+      <li> <a href="about.html">Sobre nós</a></li>
+      <li><a href="about.html#time">Equipe</a></li>
+      <li><a href="tratamentos.html">Tratamentos</a></li>
+      <li><a href="blog.html">Blog</a></li>
+      <li><a href="pubicacoes.html">Publicações</a></li>
+      <li><a href="videos.html">Vídeos</a></li>
+    </ul>
+</div>
+<div class="col-xs-5" style="padding-top: 2%">
+  <p>Acompanhe-nos em nossas redes sociais</p>
+  <a target="_blank" href="https://www.facebook.com/sinara.castellempereirafernandes"><i class="fa fa-facebook fa-2x"></i></a>
+  <a target="_blank" href="https://www.facebook.com/sinara.castellempereirafernandes"><i class="fa fa-instagram fa-2x"></i></a>
+  <a target="_blank" href="https://www.facebook.com/sinara.castellempereirafernandes"><i class="fa fa-youtube fa-2x"></i></a>
+  <a target="_blank" href="https://www.facebook.com/sinara.castellempereirafernandes"><i class="fa fa-linkedin fa-2x"></i></a>
+</div>
+<div class="col-xs-2" style="padding-top: 5%">
+  <a target="_blank" href="https://www.github.com/sinaracp"><i class="fa fa-github fa-2x"></i></a>
+</div>
+
+blog index
+
+<!-- <section class="no-padding" id="portfolio">
+    <div class="container-fluid">
+        <div class="row no-gutter popup-gallery">
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
+                    <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Category
+                            </div>
+                            <div class="project-name">
+                                Project Name
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section> -->

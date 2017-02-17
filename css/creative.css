@@ -7,7 +7,7 @@
  footer {
    font-size: 16px;
    color: black;
-   background-color: #d4ba6a;
+   background-color: #e1c282;
    padding-top: 1%;
    }
 
@@ -17,7 +17,7 @@
 
   footer a:hover,
    a:focus {
-     color: #0ce8e2;
+     color: #04a3bf;
    }
 
 footer ul {
@@ -29,7 +29,7 @@ footer ul {
 
 
 .bg_tratamentos {
-  background-color: #0ce8e2;
+  background-color: #04a3bf;
 }
 
 html,
@@ -53,7 +53,7 @@ body {
     margin: 0 30px 20px;
 }
 hr {
-  border-color: #d4ba6a;
+  border-color: #e1c282;
   border-width: 3px;
   max-width: 50px;
 }
@@ -64,11 +64,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #d4ba6a;
+  color: #e1c282;
 }
 a:hover,
 a:focus {
-  color: #bdb233;
+  color: #a08b5d;
 }
 h1,
 h2,
@@ -84,7 +84,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #d4ba6a;
+  background-color: #e1c282;
 }
 .bg-dark {
   background-color: #222222;
@@ -120,7 +120,7 @@ section .primeira_section {
 }
 
 section {
-  padding: 100px 0;
+  padding: 3% 0;
 }
 aside {
   padding: 50px 0;
@@ -137,13 +137,13 @@ aside {
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #d4ba6a;
+  color: #e1c282;
   font-family: 'Poiret One', 'Josefin Sans', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #bdb233;
+  color: #a08b5d;
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
@@ -160,11 +160,11 @@ aside {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #d4ba6a;
+  color: #e1c282;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #d4ba6a !important;
+  color: #e1c282 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -173,7 +173,7 @@ aside {
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: #d4ba6a;
+    background-color: #e1c282;
     border-color: rgba(255, 255, 255, 0.3);
   }
   .navbar-default .navbar-header .navbar-brand {
@@ -181,7 +181,7 @@ aside {
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
-    color: #0ce8e2;
+    color: #04a3bf;
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
@@ -189,19 +189,19 @@ aside {
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
-    color: #0ce8e2;
+    color: #04a3bf;
   }
   .navbar-default.affix {
     background-color: white;
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #d4ba6a;
+    color: #e1c282;
     /*font-size: 14px;*/
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #bdb233
+    color: #a08b5d
 
     ;
   }
@@ -211,7 +211,7 @@ aside {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #d4ba6a;
+    color: #e1c282;
   }
 }
 header {
@@ -225,7 +225,7 @@ header {
   background-position: center;
 
   text-align: center;
-  color: #0ce8e2;
+  color: #04a3bf;
 }
  .header-static {
   min-height: 50%;
@@ -238,11 +238,11 @@ header .header-content {
 }
 header .promocao h1 {
   margin: 0px auto;
-  color: #d4ba6a;
+  color: #e1c282;
   text-align: center;
 }
 header .promocao h2 {
-  color: #d4ba6a;
+  color: #e1c282;
   text-align: center;
   margin-bottom: 45px;
 }
@@ -258,9 +258,15 @@ header .header-content .header-content-inner hr {
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  color: #0ce8e2;
+  color: #04a3bf;
   font-size: 16px;
   margin-bottom: 50px;
+}
+header-content-inner img {
+    text-align: center;
+}
+header-content-inner a {
+    text-align:center;
 }
 @media (min-width: 768px) {
   header {
@@ -290,6 +296,11 @@ header .header-content .header-content-inner p {
     margin-left: auto;
     margin-right: auto;
   }
+}
+.header-img {
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: right
 }
 .section-heading {
   margin-top: 0;
@@ -364,7 +375,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #d4ba6a;
+  color: #e1c282;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -372,7 +383,7 @@ header .header-content .header-content-inner p {
 }
 .btn-default {
   color: #222222;
-  background-color: #cbfdfb;
+  background-color: #04a3bf;
   border-color: white;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -385,7 +396,7 @@ header .header-content .header-content-inner p {
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
   color: #222222;
-  background-color: #f2f2f2;
+  background-color: #068ea6;
   border-color: #ededed;
 }
 .btn-default:active,
@@ -419,9 +430,9 @@ fieldset[disabled] .btn-default.active {
   background-color: #222222;
 }
 .btn-primary {
-  color: white;
-  background-color: #d4ba6a;
-  border-color: #0ce8e2;
+  color: #a08b5d;
+  background-color: #e1c282;
+  border-color: #04a3bf;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -433,13 +444,13 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #bdb233;
-  border-color: #d4d943;
+  background-color: #a08b5d;
+  border-color: #a08b5d;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-  background-image: none;
+  background-image: #a08b5d;
 }
 .btn-primary.disabled,
 .btn-primary[disabled],
@@ -459,12 +470,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #d4ba6a;
-  border-color: #0ce8e2;
+  background-color: #e1c282;
+  border-color: #04a3bf;
 }
 .btn-primary .badge {
-  color: #d4ba6a;
-  background-color: white;
+  color: #e1c282;
+  background-color: #a08b5d;
 }
 .btn {
   font-family: 'Poiret One', 'Josefin Sans', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
@@ -496,4 +507,26 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+.equipe p {
+    margin: 0;
+}
+.equipe i {
+    padding-top: 30%;
+}
+.redes {
+    padding-top: 3%;
+}
+.autor p {
+    margin: 0;
+}
+.btn-contact {
+    margin-top: 5%;
+}
+.endereco-contato {
+    margin-top: 3%;
+}
+.endereco-contato p {
+    margin-bottom: 2%;
+    line-height: normal;
 }
